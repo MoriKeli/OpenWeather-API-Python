@@ -1,0 +1,8 @@
+Fri 08th-04%Y 12:59:07
+{'City': ('Migori', 'KE'), 'Weather': 'broken clouds', 'Temperature': 30.53, 'Humidity': 1009, 'Wind speed': 1.33, 'Pressure': 31}
+Fri 08th-04-2022 12:59:42
+{'City': ('Nairobi', 'KE'), 'Weather': 'broken clouds', 'Temperature': 24.93, 'Humidity': 1021, 'Wind speed': 8.23, 'Pressure': 47}
+Date fetched: Fri 08th-04-2022 13:01:35
+{'City': ('New York', 'US'), 'Weather': 'overcast clouds', 'Temperature': 9.59, 'Humidity': 1000, 'Wind speed': 6.17, 'Pressure': 92}
+Date fetched: Fri 08th-04-2022 13:03:00
+{'City': 'Tokyo, JP', 'Weather': 'Few Clouds', 'Temperature': 16.15, 'Humidity': 1018, 'Wind speed': 3.6, 'Pressure': 58}
