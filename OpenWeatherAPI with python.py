@@ -1,7 +1,7 @@
 """
     2022 ALL RIGHT RESERVED.
     Program developed, debugged & maintained by Mori Keli.
-    Created 08/04/2022 12:43pm EAT
+    Created 27/06/2022 12:43pm EAT
 
     What's New?
     ------------------
@@ -15,7 +15,7 @@ import requests
 import datetime
 current_date = datetime.datetime.today().strftime('%a %dth-%m-%Y %H:%M:%S')
 
-API_KEY = '2f39d8d235dae6ac6175dd151d49b198'
+API_KEY = 'API_KEY'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 
